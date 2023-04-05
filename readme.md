@@ -9,4 +9,8 @@ just playing with this for now
 
 # my other section
 
-my other section
+my other section **my bold text**
+
+*my item 1
+*my item 2 
+* my item 3
